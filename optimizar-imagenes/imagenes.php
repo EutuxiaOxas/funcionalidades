@@ -8,6 +8,8 @@ use Str;
 use App\Imagen; 
 
 // LIBRERIA PARA UTILIZAR (usar composer require intervention/image)
+// usar el comando $ php artisan vendor:publish --provider="Intervention\Image\ImageServiceProviderLaravelRecent" luego de instalar
+
 use Image;      
 use Illuminate\Http\Request;
 
