@@ -7,7 +7,7 @@ use Str;
 //Modelo
 use App\Imagen; 
 
-// LIBRERIA PARA UTILIZAR (usar composer require Image)
+// LIBRERIA PARA UTILIZAR (usar composer require intervention/image)
 use Image;      
 use Illuminate\Http\Request;
 
